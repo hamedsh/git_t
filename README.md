@@ -12,3 +12,5 @@ dev commit 2
 dev commit 3
 
 dev commit 4
+
+branch merge 1
