@@ -16,3 +16,5 @@ dev commit 4
 branch merge 1
 
 b3 c1
+
+b4 c1
