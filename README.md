@@ -14,3 +14,5 @@ dev commit 3
 dev commit 4
 
 branch merge 1
+
+b3 c1
